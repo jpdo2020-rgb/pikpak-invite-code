@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="jeKN2hsSbFNogPsksfvVee0eKenSUA7LkvPzA4XC4FA" />
+
 # pikpak-invite-code
 # PikPak 초대 코드 및 사용 가이드 (한국어)
 
